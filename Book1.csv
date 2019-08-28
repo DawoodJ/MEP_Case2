@@ -1,0 +1,43 @@
+﻿Column Name,"Column Description (including the unit of measure, acronyms and range of possible values)",Expected Values
+Job ID,The job opening identification (“Job ID”) number that corresponds to and represents a job posting notice published on behalf of a New York City agency. ,Plain Text
+Agency,Name of the New York City agency (“agency” or “hiring agency”) where a job vacancy exists.,Plain Text
+Posting Type,Identifies whether a job posting is an Internal or External posting. Internal postings are available to City employees only and external postings are available to the general public.,Plain Text
+# Of Positions,The total number of vacancies to be filled under the job ID listed.,Number
+Business Title,"The ""business title"", or ""office title"", for the job posting listed.",Plain Text
+Civil Service Title,The civil service title for the job posting listed.,Plain Text
+Title Code No.,The Title Code Number (“Title Code No.”) that corresponds to the civil service title posted. ,Number
+Level ,The civil service title assignment level that the posted position is being filled at. Civil service titles may have one (1) to four (4) assignment levels which correspond to the work duties assigned to that position.,Plain Text
+Job Category,"The occupational group in which the posted job belongs, such as:
+- Administration & Human Resources
+- Communications & Intergovernmental Affairs
+- Constituent Services & Community Programs
+- Engineering, Architecture, & Planning
+- Finance, Accounting, & Procurement
+- Health
+- Technology, Data & Innovation
+- Legal Affairs
+- Building Operations & Maintenance
+- Policy, Research & Analysis
+- Public Safety, Inspections, & Enforcement
+- Social Services",Plain Text
+Full-Time/Part-Time Indicator,"This denotes whether the job is a full time or part time employment.
+F - Full time
+P - Part time",Plain Text
+Salary Range From,The lowest salary on a job posting for a position within the salary band for the related civil service title.,Number
+Salary Range To,The highest salary on a job posting for a position within the salary band for the related civil service title.,Number
+Salary Frequency,"The frequency of proposed salary.  Possible salary frequency values include “hourly”, “daily”, and “annual”. ",Plain Text
+Work Location ,The physical address for the agency listing the job posting. ,Plain Text
+Division/Work Unit,The department/area within the hiring agency for the job position listed in a job posting.,Plain Text
+Job Description,The description of the job responsibilities for the position listed in the job posting.,Plain Text
+Minimum Qual Requirements,Minimum qualifications (“minimum qual”) required for the position listed in the job posting.,Plain Text
+Preferred Skills,"Additional, preferred skills desired by the hiring agency for a given position.",Plain Text 
+Additional Information,Additional information provided by the hiring agency.,Plain Text
+To Apply,Instructions on how to apply for a given job vacancy.,Plain Text 
+Hours/Shift,"Projected working hours, working days and shift information.",Plain Text 
+Work Location 1,"Where applicable, additional work location details for the job vacancy. Work location details range from building addresses to citywide references to locations to be determined (“TBD”). ",Plain Text
+Recruitment Contact,"Where applicable, recruitment contact information is provided.",Plain Text 
+Residency Requirement,Residency requirements for a given job vacancy.,Plain Text 
+Posting Date,The date and time that a job vacancy was posted in MM/DD/YY format.,Plain Text 
+Post Until,The last date that a job vacancy will be posted; blank cells indicate job vacancy posts that will remain listed until the position is filled in MM/DD/YY format.,Plain Text 
+Posting Updated,The last date and time a job vacancy posting was modified in MM/DD/YY format.,Plain Text 
+Process Date,The date and time that the dataset created date to include the corresponding job vacancy posting in MM/DD/YY format.,Plain Text 
