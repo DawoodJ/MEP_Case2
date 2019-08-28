@@ -28,3 +28,7 @@ In the file "MEPCase2.ipynb" you may see:
 8- Perform multible visualization analysis on the data
 
 9- Analyzing the data using natural language processing models
+
+## What more can be done?
+
+If I had more time I could build a model to predict the salary range based on other features, such as 'civil title', 'business title',  'salary frequency', 'post type' etc.. With this model I could help business owners to best list a job with the right salary range. 
